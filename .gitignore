@@ -3,6 +3,7 @@
 /*.html
 /*.pdf
 /*.tex
+/notebooks/.ipynb_checkpoints
 /solutions/*.tex
 /examples/*.tex
 /images/*.xopp
