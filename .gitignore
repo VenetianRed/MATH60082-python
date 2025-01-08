@@ -1,10 +1,9 @@
-/.ipynb_checkpoints
+/.ipynb_checkpoints/
 /*.csv
 /*.html
 /*.pdf
 /*.tex
-/notebooks/.ipynb_checkpoints
-/notebooks/.ipynb_checkpoints/*
+/notebooks/.ipynb_checkpoints/
 /solutions/*.tex
 /examples/*.tex
 /images/*.xopp
